@@ -1,0 +1,25 @@
+ please,Enter the name of card holder: eslam mohamed sayed moh
+please,Enter the expiry date of your card  as MM/YY: 12/24
+Enter the card pan please: 222222222222222222
+please,Enter the transaction date as DD/MM/YYYY, e.g 28/03/2022: 23/08/2022
+please,Enter the transaction amount: 1000
+please,Enter the max amount: 4000
+the new balance = 6000.00
+transaction is APPROVED
+
+
+pleae Enter X to close the program or any char to continue:  eslam mohamed sayed moh
+ please,Enter the name of card holder: please,Enter the expiry date of your card  as MM/YY: 12/24
+Enter the card pan please: 222222222222222222
+please,Enter the transaction date as DD/MM/YYYY, e.g 28/03/2022: 23/08/2022
+please,Enter the transaction amount: 5000
+please,Enter the max amount: 4000
+EXCEED MAXIMUM AMOUNT
+
+
+pleae Enter X to close the program or any char to continue: eslam mohamed sayed moh
+ please,Enter the name of card holder: please,Enter the expiry date of your card  as MM/YY: 12/21
+Enter the card pan please: 222222222222222222
+please,Enter the transaction date as DD/MM/YYYY, e.g 28/03/2022: 23/08/2022
+EXPIRED CARD
+
